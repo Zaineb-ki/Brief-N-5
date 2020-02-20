@@ -101,19 +101,19 @@ ul li{
 #img1-color {
     position: absolute;
     right: 66%;
-    top: 181%;
+    top: 137%;
 }
 
 #img2-color {
     position: absolute;
     right: 40%;
-    top: 181%;
+    top: 137%;
 }
 
 #img3-color {
     position: absolute;
     right: 14%;
-    top: 181%;
+    top: 137%;
 
 }
 
@@ -122,7 +122,7 @@ ul li{
     color: white;
     font-family: "Bebas Neue";
     font-size: 46px;
-    top: 188%;
+    top: 141%;
     left: 22%;
 }
 #desc2{
@@ -130,7 +130,7 @@ ul li{
     color: white;
     font-family: "Bebas Neue";
     font-size: 46px;
-    top: 188%;
+    top:  141%;
     left: 48%;
 }
 #desc3{
@@ -138,7 +138,7 @@ ul li{
     color: white;
     font-family: "Bebas Neue";
     font-size: 46px;
-    top: 188%;
+    top:  141%;
     left: 74%;
 }
 
@@ -149,7 +149,7 @@ ul li{
     font-size: 16px;
     position: absolute;
     left: 22%;
-    top: 206%;
+    top: 155%;
     
 
 }
@@ -160,7 +160,7 @@ ul li{
     font-size: 16px;
     position: absolute;
     left: 48%;
-    top: 206%;
+    top: 155%;
 }
 
 #des3 {
@@ -169,5 +169,8 @@ ul li{
     font-size: 16px;
     position: absolute;
     left: 74%;
-    top: 206%;
+    top: 155%;
+}
+#containt-imgs{
+    top: 10px;
 }
